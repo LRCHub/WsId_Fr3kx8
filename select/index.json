@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "こいのうた",
+  "base_artist": "Go!Go!7188",
+  "createdAt": "2026-03-01T18:01:08.837260Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイモ〜こいのうた〜",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/01_アイモ〜こいのうた〜_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイモ ～こいのうた～",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/02_アイモ_~こいのうた~_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "北白川たまこ(CV:洲崎綾)",
+      "has_synced": true,
+      "path": "select/03_こいのうた_北白川たまこ(CV_洲崎綾).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "北白川たまこ(CV:洲崎綾)",
+      "has_synced": true,
+      "path": "select/04_こいのうた_北白川たまこ(CV_洲崎綾).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "こいのうた (ショートサイズ)",
+      "artist": "北白川たまこ(CV:洲崎綾)",
+      "has_synced": false,
+      "path": "select/05_こいのうた_(ショートサイズ)_北白川たまこ(CV_洲崎綾).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "GO!GO!7188",
+      "has_synced": true,
+      "path": "select/06_こいのうた_GO!GO!7188.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "アーリャ（CV：上坂すみれ）",
+      "has_synced": false,
+      "path": "select/07_こいのうた_アーリャ(CV_上坂すみれ).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "北白川たまこ(cv:洲崎 綾)",
+      "has_synced": true,
+      "path": "select/08_こいのうた_北白川たまこ(cv_洲崎_綾).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "アーリャ(CV.上坂すみれ)",
+      "has_synced": false,
+      "path": "select/09_こいのうた_アーリャ(CV.上坂すみれ).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "戸松遥",
+      "has_synced": true,
+      "path": "select/10_こいのうた_戸松遥.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "洲崎綾",
+      "has_synced": true,
+      "path": "select/11_こいのうた_洲崎綾.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "こいのうた (ショートサイズ)",
+      "artist": "洲崎綾",
+      "has_synced": false,
+      "path": "select/12_こいのうた_(ショートサイズ)_洲崎綾.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "GO!GO!7188",
+      "has_synced": true,
+      "path": "select/13_こいのうた_GO!GO!7188.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "北白川たまこ",
+      "has_synced": true,
+      "path": "select/14_こいのうた_北白川たまこ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "アーリャ(CV：上坂すみれ)",
+      "has_synced": false,
+      "path": "select/15_こいのうた_アーリャ(CV_上坂すみれ).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "GO!GO!7188",
+      "has_synced": false,
+      "path": "select/16_こいのうた_GO!GO!7188.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "こいのうた - Koi No Uta",
+      "artist": "Go!Go!7188",
+      "has_synced": true,
+      "path": "select/17_こいのうた_-_Koi_No_Uta_Go!Go!7188.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "Haruka Tomatsu",
+      "has_synced": true,
+      "path": "select/18_こいのうた_Haruka_Tomatsu.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "こいのうた",
+      "artist": "橋本みゆき",
+      "has_synced": false,
+      "path": "select/19_こいのうた_橋本みゆき.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "こいのうた",
+      "artist": "GO!GO!7188",
+      "has_synced": false,
+      "path": "select/pl_01_こいのうた_GO!GO!7188.txt"
+    }
+  ]
+}
